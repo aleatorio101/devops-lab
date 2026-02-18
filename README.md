@@ -1,10 +1,10 @@
-# 🚀 DevOps Lab
+# DevOps Lab
 
 > Projeto prático focado em CI/CD e automação, desenvolvido para aprofundar conhecimentos em DevOps/SRE.
 
 ---
 
-## 📦 Stack
+## Stack
 
 | Camada | Tecnologia |
 |--------|-----------|
@@ -16,7 +16,7 @@
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 devops-lab/
@@ -51,7 +51,7 @@ push/PR → Build & Test → Docker Build
 
 ---
 
-## 🏃 Rodando localmente
+## Rodando localmente
 
 ### Pré-requisitos
 - Java 17+
@@ -75,7 +75,7 @@ Acesse: [http://localhost:8080](http://localhost:8080)
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [x] Fase 1 — App Java + Docker + GitHub Actions CI
 - [ ] Fase 2 — Push para AWS ECR + deploy no ECS
@@ -84,6 +84,6 @@ Acesse: [http://localhost:8080](http://localhost:8080)
 
 ---
 
-## 👤 Autor
+## Autor
 
 Projeto desenvolvido como laboratório pessoal para prática de DevOps.
