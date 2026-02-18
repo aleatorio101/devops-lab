@@ -31,3 +31,4 @@ class HelloControllerTest {
             .andExpect(jsonPath("$.status").value("UP"));
     }
 }
+
